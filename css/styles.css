@@ -182,6 +182,7 @@ button:hover, button:focus, .button:hover, .button:focus {
   0% {
     fill: #edc655;
   }
+  
   50% {
     fill: #fcffad;
   }
